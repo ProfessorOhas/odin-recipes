@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  font-family: "Playfair Display", serif;
+  font-size: 3rem;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+body {
+  background: linear-gradient(180deg, #eeffee, #bbc4ef);
+  height: 100vh;
+}
+
+.block {
+  display: block;
+  margin: auto;
+  border-radius: 25px;
+  width: min(70%, 500px);
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.479);
+}
+
+.recipe {
+  padding: 5px;
+  font-size: 1.5rem;
+}
